@@ -44,6 +44,6 @@ d'utiliser l'entourer d'accent grave `` ` ``
   
 Tu gères maintenant le Markdown.
 
-Clique [ici](/markdown) pour revenir sur la première page.
+Clique [ici](/markdown.md) pour revenir sur la première page.
 
 ![well done](https://cdn-image.myrecipes.com/sites/default/files/welldone-logo.png)
