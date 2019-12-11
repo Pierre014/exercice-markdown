@@ -35,3 +35,5 @@ echo 'Var='.$var;
 ```
 
 > Ceci est une citation.
+
+<fake@example.com>
