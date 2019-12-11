@@ -5,6 +5,7 @@ Avec Markdown on sait creer:
 * Des listes
 * Des titres
 
+-----------------
 1. Des citations
 
 2. Des blocs de code
