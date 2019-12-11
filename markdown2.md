@@ -11,4 +11,12 @@ D'abord, un lien vers la syntaxe. (https://www.markdownguide.org/basic-syntax/)
   * blablabla
   
   
+``` php
+<?php
+$var = 12;
+echo 'Var='.$var;
+?>
+```
+  
+  
 ![well done](https://cdn-image.myrecipes.com/sites/default/files/welldone-logo.png)
