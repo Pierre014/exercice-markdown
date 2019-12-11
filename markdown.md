@@ -24,15 +24,6 @@ Lien vers [Google](http://www.google.com)
     * liste
         - liste
             + liste
-2. And back
+2. Liste 2
 
-* Liste 1
-
-* Liste 2
-
-  * Sous liste
-
-  * Sous liste 2
-
-* Liste 3
-
+``` javascript
