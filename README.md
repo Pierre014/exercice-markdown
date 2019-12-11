@@ -6,10 +6,10 @@
 ### le groupe
 
 le groupe est constitué de
-    * Lloyd Colart
-    * Tiago Rodrigues
-    * Kevin Pirnay
-    * Pierre Lorand
+ * Lloyd Colart
+ * Tiago Rodrigues
+ * Kevin Pirnay
+ * Pierre Lorand
     
 ### le projet
 
