@@ -8,7 +8,7 @@
 * Définition
 * usage
 * [apprendre le markdown](/markdown2.md)
-=======
+
 # Le Markdown!
 
 ## 1. C'est quoi? 
