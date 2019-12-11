@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Markdown
 *****************
 
@@ -11,7 +10,6 @@
 * [apprendre le markdown](/markdown2.md)
 =======
 # Le Markdown!
->>>>>>> lloyd
 
 ## 1. C'est quoi? 
 
