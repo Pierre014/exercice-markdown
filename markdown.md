@@ -30,4 +30,3 @@ Lien vers [Google](http://www.google.com)
 
 * Liste 3
 
-``` php
