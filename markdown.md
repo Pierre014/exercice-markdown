@@ -7,5 +7,5 @@
 
 * Définition
 * usage
-* apprendre le markdown(/markdown2.md)
+* [apprendre le markdown](/markdown2.md)
 
