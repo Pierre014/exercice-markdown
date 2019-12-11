@@ -12,4 +12,4 @@ Le langage de balisage léger Markdown est utilisé dans de nombreuses applicati
 
 ![suivant](https://media.giphy.com/media/a5viI92PAF89q/200w_d.gif)
 
-Curieux de connaitre la syntaxe, click [ici](exercice-markdown/markdown2.md)
+Curieux de connaitre la syntaxe, click [ici](/markdown2.md)
