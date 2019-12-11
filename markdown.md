@@ -21,9 +21,13 @@ Lien vers [Google](http://www.google.com)
 ![Google Gif](https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif)
 
 * Liste 1
+
 * Liste 2
-    * Sous liste
-    * Sous liste 2
+
+  * Sous liste
+
+  * Sous liste 2
+
 * Liste 3
 
 ``` php
