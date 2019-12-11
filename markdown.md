@@ -6,7 +6,9 @@ Avec Markdown on sait creer:
 * Des titres
 
 1. Des citations
+
 2. Des blocs de code
+
 3. Des liens
 
 # Titre 1
