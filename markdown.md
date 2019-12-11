@@ -26,4 +26,6 @@ Lien vers [Google](http://www.google.com)
             + liste
 2. Liste 2
 
-``` javascript
+``` Markdown
+javascript
+``` 
