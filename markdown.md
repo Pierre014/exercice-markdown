@@ -27,8 +27,11 @@ Lien vers [Google](http://www.google.com)
             + liste
 2. Liste 2
 
-``` Markdown
-javascript
-``` 
+``` php
+<?php
+$var = 12;
+echo 'Var='.$var;
+?>
+```
 
 > Ceci est une citation.
