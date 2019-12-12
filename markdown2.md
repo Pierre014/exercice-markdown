@@ -27,12 +27,15 @@ pour intégrer un lien à ta page, rien de difficile. tu place ton mot entre [] 
 
 ### du code?
 et oui, tu peux également insérer du code dans un paragraphe avec markdown. il suffit pour cela
-d'utiliser l'entourer d'accent grave `` ` `` 
-``` 
-<script type="text/javascript">
-    alert("Hello!");
-</script>
+d'utiliser l'entourer d'accent grave
+
+``` php
+<?php
+$var = 12;
+echo 'Var='.$var;
+?>
 ```
+
 ### les listes
 1. tu peux créer des listes ordonnées
 2. en commence par  des numéros
